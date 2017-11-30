@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dao.iml" filepath="$PROJECT_DIR$/.idea/modules/dao.iml" group="dao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dao/dao_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dao/dao_main.iml" group="dao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dao/dao_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dao/dao_test.iml" group="dao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleone.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleone_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleone_main.iml" group="gradleone" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleone_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleone_test.iml" group="gradleone" />
+    </modules>
+  </component>
+</project>
